@@ -160,7 +160,7 @@ O sistema processa **1.794 colaboradores elegíveis** e gera:
 
 ## Autores - Grupo Synapse 7:
 
-- [Adriana Rocha Castro de Paula] (adrianarcdepaula@gmail.com)
+- [Adriana Rocha Castro de Paula](adrianarcdepaula@gmail.com)
 - [Conrado Gornic](cgornic@gmail.com)
 - [Lia Yumi Morimoro](yumi.lia.mori@gmail.com)
 - [Luiz Fernando Rezende](rio2040@gmail.com)
