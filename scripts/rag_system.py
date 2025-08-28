@@ -1,5 +1,7 @@
 """
 Sistema RAG (Retrieval-Augmented Generation) para automação de VR/VA
+
+Grupo: Synapse 7 - Desafio 4
 """
 
 import os

@@ -157,3 +157,11 @@ O sistema processa **1.794 colaboradores elegíveis** e gera:
    - Colaborador: 20%
 
 
+
+## Autores - Grupo Synapse 7:
+
+- [Conrado Gornic](cgornic@gmail.com)
+- [Luiz Fernando Rezende](rio2040@gmail.com)
+- [Rodrigo Mibielli Peixoto](rodrigo.mibielli@gmail.com)
+- [Saulo Brotto](haredo.i@gmail.com)
+

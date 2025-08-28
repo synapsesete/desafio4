@@ -1,5 +1,7 @@
 """
 Processador de dados Excel melhorado para automação de VR/VA
+
+Grupo: Synapse 7 - Desafio 4
 """
 
 import pandas as pd

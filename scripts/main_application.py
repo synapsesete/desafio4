@@ -1,5 +1,7 @@
 """
-Aplicação principal que integra o sistema RAG com o processamento de dados
+Aplicação principal que integra o sistema RAG com o processamento de dados.
+
+Grupo: Synapse 7 - Desafio 4
 """
 
 import os
