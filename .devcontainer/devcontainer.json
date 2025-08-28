@@ -1,0 +1,10 @@
+{
+    "dockerComposeFile": [
+        "docker-compose.workspace.yml"
+    ],
+    "service": "workspace",
+    "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
+//    "postCreateCommand": "curl -fsSL https://ollama.com/install.sh | sh",
+//    "postStartCommand": "ollama serve",
+    "remoteUser": "vscode"
+}
